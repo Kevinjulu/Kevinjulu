@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **Front-end Development[Not yet a pro though]**
 
-- 📫 How to reach me **kevinjulu@gmail.com**
-
 - ⚡ Fun fact **I'm always right 🤣🤣**
 
 <h3 align="left">Connect with me:</h3>
