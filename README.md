@@ -25,7 +25,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭 Currently working on **The Odin Project – School Management System**
+- 🔭 Currently working on **SABO – African next big Marketplace (Am super exited about this project)**
 - 🌱 Exploring **Vue.js**, advancing in **React & Java**, and diving into **LLMs** using **Hugging Face**
 - 👯 Looking to collaborate on **frontend and full-stack projects** using **React, Next.js, Tailwind, Laravel**
 - 🤝 Open to teaming up on **PHP-based or AI-driven projects**
