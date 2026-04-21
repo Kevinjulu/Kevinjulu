@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B1A1A&height=130&section=header&text=Kevin%20Julu%20aka%20Ghost&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Engineer%20%E2%80%94%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=85&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B1A1A&height=130&section=header&text=Kevin%20Julu%20aka%20Ghost&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer%20%E2%80%94%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=85&descSize=14" width="100%" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinjulu&label=Profile+views&color=8B1A1A&style=flat-square" />
